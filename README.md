@@ -1,5 +1,5 @@
 CSharpFundamentalsTasks
 =======================
 
-CSharpFundamentals
-Fisrt Lecture
+CSharpFundamentals \n
+Fisrt Lecture Tasks
